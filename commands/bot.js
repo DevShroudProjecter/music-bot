@@ -12,11 +12,11 @@ module.exports = {
    .setTitle(`**Info Hyper Music**`)
    
     
-    .addField("`my name`", `**Hyper Music#0112**`, true)
+    .addField("`my name`", `**MaMusic#0353**`, true)
 
-    .addField("`My ID`",  `**780578520870158337**`, true)
+    .addField("`My ID`",  `**855819588263215144**`, true)
     
-    .addField( "`My Prefix` ",`**$**`,true)
+    .addField( "`My Prefix` ",`**!m**`,true)
     
     .addField("`Node.js Version`",  `**12**`, true)
     
@@ -24,7 +24,7 @@ module.exports = {
     
     .addField("`Discord.js `",  `**12.5.1**`, true)
     
-    .addField( "`developer bot` ",`<@681553671364018196>`,true)
+    .addField( "`developer bot` ",`<@852931071179751514>`,true)
     
    
     
