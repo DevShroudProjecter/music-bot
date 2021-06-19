@@ -9,12 +9,12 @@ module.exports = {
     let commands = message.client.commands.array();
 
     let helpEmbed = new MessageEmbed()
-   .setTitle(`**Info Hyper Music**`)
+   .setTitle(`**Info Mamusic**`)
    
     
-    .addField("`my name`", `**Hyper Music#0112**`, true)
+    .addField("`my name`", `**MaMusic#0353**`, true)
 
-    .addField("`My ID`",  `**780578520870158337**`, true)
+    .addField("`My ID`",  `**855819588263215144**`, true)
     
     .addField( "`My Prefix` ",`**$**`,true)
     
@@ -24,7 +24,7 @@ module.exports = {
     
     .addField("`Discord.js `",  `**12.5.1**`, true)
     
-    .addField( "`developer bot` ",`<@681553671364018196>`,true)
+    .addField( "`developer bot` ",`<@852931071179751514>`,true)
     
    
     
